@@ -8,3 +8,5 @@ Já o arquivo .ino foi feito para aquela pessoa que possui interesse em testar o
 
 A lingaguem utilizada durante o TinkerCad e para programação de Arduino é a C++, com pequenas mudanças, como a adição do setup( ) e substituição do 
 main( ) pelo loop( )
+
+Caso tenha interesse em mais conteudo sobre Microcontrolador, recomendo um vídeo nosso: https://youtu.be/ziEBRFSfp4A
